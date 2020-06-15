@@ -1,0 +1,13 @@
+<p class="inline-block">
+					Currently enrolled with the Code Institute's Full Stack Development program. I have worked with HTML
+					and CSS code, briefly touching on JavaScript capabilities. I wish to become proficient with all of
+					the programming languages that we have access to while on this course. Eventually, I hope to work as
+					a developer.
+				</p>
+                <p class="inline-block">
+                    I have also spent the majority of my academic experience studying International Relations. I have attained a Foundation degree in History with International Relations as a minor. To further qualify myself within this field, I am in my last year with the Open University to attain a BA (Hons) degree in International Studies, with a Distinction as my projected grade.
+                </p>
+                <p class="inline-block">
+                    Finally, for the last 15 years I also have been a club DJ, promoter and previously ran a successful record label: Diggin' It Records. 
+                    <br>I currently promote myself under the psuedonym:<br> Jig & Thonic.
+                </p>
